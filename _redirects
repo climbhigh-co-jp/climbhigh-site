@@ -1,0 +1,3 @@
+# Force 301 redirect from the old Netlify subdomain to the canonical domain.
+# (The soft-narwhal host appears here only as the redirect SOURCE, not as an SEO/canonical URL.)
+https://soft-narwhal-6aca7d.netlify.app/* https://climbhigh.co.jp/:splat 301!
